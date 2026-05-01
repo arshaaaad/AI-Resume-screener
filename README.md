@@ -9,8 +9,7 @@ Built with Python, scikit-learn (TF-IDF + cosine similarity), and Streamlit.
 
 ## Live Demo
 
-Try it here: https://your-app-name.streamlit.app
-Replace this with your Streamlit Cloud link after deploying.
+Try it here:(https://ai-resume-screener-rzbwxrrnh6v5dr5tfspcdt.streamlit.app/)
 
 
 
@@ -79,7 +78,7 @@ No model files needed. Everything is computed fresh each time.
 ## Resume bullet point
 
 Built AI resume screening system using TF-IDF cosine similarity and GPT-3.5 to rank
-candidates and explain fit; reduces manual screening time by around 80%. Live demo: [link]
+candidates and explain fit; reduces manual screening time by around 80%. 
 
 
 
