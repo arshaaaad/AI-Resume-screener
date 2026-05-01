@@ -276,7 +276,7 @@ if st.button("Screen Resumes", type="primary", use_container_width=True):
                 st.caption("Add an OpenAI API key above to get AI explanations here instead.")
 
         st.divider()
---
+        
     strong_count  = sum(1 for s in scores.values() if s >= 60)
     partial_count = sum(1 for s in scores.values() if 35 <= s < 60)
     weak_count    = sum(1 for s in scores.values() if s < 35)
